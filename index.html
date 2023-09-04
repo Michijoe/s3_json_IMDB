@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="main.js" type="module"></script>
+    <title>Movies DB</title>
+</head>
+
+<body>
+    <header>
+        <form name="displayForm" class="filter">
+            <fieldset>
+                <legend>Display:</legend>
+                <div>
+                    <input type="radio" id="list" name="displayInput" value="list" checked>
+                    <label for="list">List</label>
+                </div>
+                <div>
+                    <input type="radio" id="grid" name="displayInput" value="grid">
+                    <label for="grid">Grid</label>
+                </div>
+            </fieldset>
+        </form>
+        <form name="sortForm">
+            <fieldset>
+                <legend>Sort by:</legend>
+                <select name="sortSelect">
+                    <option id="yearReleaseAsc" value="yearReleaseAsc">Year release ascending</option>
+                    <option id="yearReleaseDesc" value="yearReleaseDesc">Year release descending</option>
+                    <option id="titleAsc" value="titleAsc">Title ascending</option>
+                    <option id="titleDesc" value="titleDesc">Title descending</option>
+                </select>
+            </fieldset>
+        </form>
+
+    </header>
+    <div>
+        <aside>
+            <form name="searchForm">
+                <label for="search">Search:<input type="search" id="search" name="searchInput"></label>
+                <button type="button" name="searchButton">Go</button>
+                <button type="button" name="reinitButton">Reset</button>
+            </form>
+
+            <form name="filterForm" class="filter">
+            </form>
+
+        </aside>
+        <main class="list">
+        </main>
+    </div>
+</body>
+
+</html>

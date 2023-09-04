@@ -1,0 +1,182 @@
+{
+    "searchType": "Movie",
+    "expression": "ghibli",
+    "results": [
+        {
+            "id": "tt26252958",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNDlkMTE1NWItM2UzZC00MzY3LTgzMDUtOTU5NTBmMDNlZjNiXkEyXkFqcGdeQXVyMTQ4NTgxNzYx._V1_Ratio1.0000_AL_.jpg",
+            "title": "Ghibliotheque - A Podcast About Studio Ghibli",
+            "description": "2018– Podcast Series Jake Cunningham, Michael Leader"
+        },
+        {
+            "id": "tt0484470",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjA5ZGNmMTItMzJhNS00MjEwLTk4NmUtNWVjNzA4NGYwZjcwXkEyXkFqcGdeQXVyNTExODE3MDE@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Le voyage de Chihiro: Le musée Ghibli",
+            "description": "2005 Video Gorô Miyazaki"
+        },
+        {
+            "id": "tt1620902",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjE5NTVjMWUtMmJkMy00N2I2LWEzOWQtMjcwYWZhZmEwZDE3XkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_Ratio0.8649_AL_.jpg",
+            "title": "My Neighbor Totoro: The Producer's Perspective: Creating Ghibli",
+            "description": "2010 Video Paul Butcher, Pat Carroll"
+        },
+        {
+            "id": "tt0436358",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzUzYmI2ZjgtOTBiYS00N2M2LWIxZDMtNWM3NzcwY2YyYjI5XkEyXkFqcGdeQXVyNTE1MDU0NzY@._V1_Ratio1.6216_AL_.jpg",
+            "title": "Ghibli et le mystère Miyazaki",
+            "description": "2005 TV Movie Hayao Miyazaki, Giannalberto Bendazzi"
+        },
+        {
+            "id": "tt6478412",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzMyNDNmNzctMjJlNC00ZTJhLTg1YTgtYWM4ZGY4MmUyMGRlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_Ratio0.7568_AL_.jpg",
+            "title": "Isao Takahata and His Tale of Princess Kaguya",
+            "description": "2013 Shigeo Akahori, Aki Asakura"
+        },
+        {
+            "id": "tt0484469",
+            "resultType": "Movie",
+            "image": "",
+            "title": "Le voyage de Chihiro: La philosophie du studio Ghibli",
+            "description": "2005 Video Hayao Miyazaki, Toshio Suzuki"
+        },
+        {
+            "id": "tt2273453",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjdjN2VjZDAtMjdlOS00NDZiLWE4MzAtNTAxZTUzNTM1ZThkXkEyXkFqcGdeQXVyOTc1NDg5Njc@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Oga Kazuo Exhibition: Ghibli No Eshokunin - The One Who Painted Totoro's Forest",
+            "description": "2007 Video Shichirô Kobayashi, Kazuo Oga"
+        },
+        {
+            "id": "tt3204392",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzkzMzE0OF5BMl5BanBnXkFtZTgwMTY5OTY0MzE@._V1_Ratio0.7027_AL_.jpg",
+            "title": "The Kingdom of Dreams and Madness",
+            "description": "2013 Hayao Miyazaki, Yumiko Miyoshi"
+        },
+        {
+            "id": "tt0412769",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTZlNmZmNGYtNDI2Yi00OWI0LThlM2MtMDJkYzNiMzNjMTY2XkEyXkFqcGdeQXVyNjUwNDMyOTM@._V1_Ratio0.7027_AL_.jpg",
+            "title": "Ghiblies: Episode 2",
+            "description": "2002 Video Masahiko Nishimura, Kyôka Suzuki"
+        },
+        {
+            "id": "tt0893523",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOTJkNDlkZDktN2VmMC00OGQ2LWEyNmItNTIxMjA4M2Q4MWJlXkEyXkFqcGdeQXVyOTIxNDQ1MTQ@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Ghiblies",
+            "description": "2000 Video"
+        },
+        {
+            "id": "tt23626160",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWVjNGEwNzktNDYzNy00NTY5LWIzNmUtODU1MTBjY2EwYTM4XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Zen - Grogu and Dust Bunnies",
+            "description": "2022 Short"
+        },
+        {
+            "id": "tt0299930",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTE5MTYxMDg5NV5BMl5BanBnXkFtZTYwNjc5MzQ3._V1_Ratio0.7838_AL_.jpg",
+            "title": "Gigli",
+            "description": "2003 Ben Affleck, Jennifer Lopez"
+        },
+        {
+            "id": "tt0422320",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BOGI3MTQ5MDUtNGJhMi00NDY1LWE2MDItODRlMGNkMWVmY2MwXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Ghilli",
+            "description": "2004 Joseph Vijay, Trisha Krishnan"
+        },
+        {
+            "id": "tt0106179",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZDA0MmM4YzUtMzYwZC00OGI2LWE0ODctNzNhNTkwN2FmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The X-Files",
+            "description": "1993–2018 TV Series David Duchovny, Gillian Anderson"
+        },
+        {
+            "id": "tt3111906",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmI4MzQ3ZTQtZjM4Yy00OTI1LWFiOWUtYmNjYTBlMDBlMWVmXkEyXkFqcGdeQXVyMTM0NDkxNDIz._V1_Ratio0.6757_AL_.jpg",
+            "title": "Yami shibai",
+            "description": "2013– TV Series Kanji Tsuda, Sara"
+        },
+        {
+            "id": "tt0089302",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTNmMWVlZDktNjcwMS00MjAwLWI1MGItODA1ZWU1MWQyOTIxXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Hot Chili",
+            "description": "1985 Charlie Stratton, Allan Kayser"
+        },
+        {
+            "id": "tt15978956",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTg5YzgyZjktMGI2ZC00YTMwLWFjMWUtMjA0ZjFlNmFkNWQ0XkEyXkFqcGdeQXVyMTE3MjI3MTc2._V1_Ratio0.6757_AL_.jpg",
+            "title": "Wifelike",
+            "description": "2022 Jonathan Rhys Meyers, Elena Kampouris"
+        },
+        {
+            "id": "tt11737778",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTIwMDAzOTEtN2VlNy00ZDRhLWFmZDQtMzU0NGMxNWFiYTM2XkEyXkFqcGdeQXVyMjg5Mzc4NTE@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Anbulla Ghilli",
+            "description": "2022 Mime Gopi, Ashiq Hussain"
+        },
+        {
+            "id": "tt19410124",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjMwY2I3MmMtZThlYi00MDU2LTgwMDQtNmI2YTIwOGQzNmUyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_Ratio0.7297_AL_.jpg",
+            "title": "Gizli Sakli",
+            "description": "2022 TV Series Sinem Ünsal, Halit Özgür Sari"
+        },
+        {
+            "id": "tt13055610",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZjdiNDg5ODktZjljZS00MmM5LWFhZjYtOThlMzM3Y2I1Mjg5XkEyXkFqcGdeQXVyMTIwODA0NzQ4._V1_Ratio0.7027_AL_.jpg",
+            "title": "Ghibli",
+            "description": "2020 S1.E6 TV Episode Sasha Says TV Mini Series"
+        },
+        {
+            "id": "tt0108071",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BYmViODUwN2YtZDk0YS00OTg4LWIyNmYtZjM1Y2EyYWIyMmU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The Secret Garden",
+            "description": "1993 Kate Maberly, Maggie Smith"
+        },
+        {
+            "id": "tt0232500",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6757_AL_.jpg",
+            "title": "The Fast and the Furious",
+            "description": "2001 Vin Diesel, Paul Walker"
+        },
+        {
+            "id": "tt13675832",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTUzZjU0M2MtZGFmYy00ZWU0LWJjZGUtOGJlMTI4MWI4ZDUxXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_Ratio0.8108_AL_.jpg",
+            "title": "As If",
+            "description": "2021– TV Series Feyyaz Yigit, Kivanç Kilinç"
+        },
+        {
+            "id": "tt4846340",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzg2Mzg4YmUtNDdkNy00NWY1LWE3NmEtZWMwNGNlMzE5YzU3XkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_Ratio0.6757_AL_.jpg",
+            "title": "Hidden Figures",
+            "description": "2016 Taraji P. Henson, Octavia Spencer"
+        },
+        {
+            "id": "tt12826608",
+            "resultType": "Movie",
+            "image": "https://m.media-amazon.com/images/M/MV5BMzhkZGE2N2MtNGJmZi00NThiLWJkYWQtMTZmNDk4NmY4ZGIxXkEyXkFqcGdeQXVyMTE0NjEzMzg3._V1_Ratio1.5135_AL_.jpg",
+            "title": "Ghissi Pitti Mohabbat",
+            "description": "2020– TV Series Ramsha Khan, Wahaj Ali"
+        }
+    ],
+    "errorMessage": ""
+}

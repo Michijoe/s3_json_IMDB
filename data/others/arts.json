@@ -1,0 +1,2188 @@
+{
+    "pagination": {
+        "total": 119696,
+        "limit": 12,
+        "offset": 0,
+        "total_pages": 9975,
+        "current_page": 1,
+        "next_url": "https:\/\/api.artic.edu\/api\/v1\/artworks?page=2"
+    },
+    "data": [
+        {
+            "id": 58711,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/58711",
+            "is_boosted": false,
+            "title": "Paperweight",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAAENPRG51dG94cnV7fH6FhLq9vLq+vb\/CxMLFxvb29vr6+fr6+vr7\/Pz8\/P39\/f\/+\/f7+\/v\/\/\/v\/\/\/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUUYBMtkPMYQiElATAo0UEgkgMxdQgAOw==",
+                "width": 2250,
+                "height": 2250,
+                "alt_text": "A work made of glass."
+            },
+            "main_reference_number": "1979.787",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1825,
+            "date_end": 1875,
+            "date_display": "Mid 19th century",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "French",
+            "place_of_origin": "France",
+            "dimensions": "Diam.: 8.9 cm (3 1\/2 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 8.9,
+                    "diameter_in": 3.5,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Glass",
+            "inscriptions": null,
+            "credit_line": "Gift of Arthur Rubloff",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": 1980,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 12.4155,
+            "color": {
+                "h": 135,
+                "l": 30,
+                "s": 46,
+                "percentage": 0.02181104877372655,
+                "population": 155
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Glass",
+            "artwork_type_id": 37,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": null,
+            "artist_title": null,
+            "alt_artist_ids": [],
+            "artist_ids": [],
+            "artist_titles": [],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "millefiori glass",
+                "paperweight",
+                "millefiori",
+                "glass",
+                "european decorative arts",
+                "glass"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-858",
+            "classification_title": "paperweight",
+            "alt_classification_ids": [
+                "TM-371",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_ids": [
+                "TM-858",
+                "TM-371",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_titles": [
+                "paperweight",
+                "millefiori",
+                "european decorative arts",
+                "glass"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2657",
+            "alt_material_ids": [
+                "TM-2453"
+            ],
+            "material_ids": [
+                "TM-2657",
+                "TM-2453"
+            ],
+            "material_titles": [
+                "millefiori glass",
+                "glass"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "b408a66c-4603-7e29-692b-4b2a1b013b8e",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1979.787"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Paperweight"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T14:03:40-05:00",
+            "updated_at": "2023-05-05T14:07:22-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 58707,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/58707",
+            "is_boosted": false,
+            "title": "Paperweight",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAAH9yeYaEgYqIhpCMhZSQi7m4s7q5sr69uMHAvujn5enq6fLz8PLz8fv6+vr6+\/v6+\/z8+\/v7\/Pz8\/P39\/P39\/f7+\/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVIDUxU\/UcgxEpAhAkDkIUTSUtUBUCADs=",
+                "width": 2250,
+                "height": 2250,
+                "alt_text": "A work made of glass."
+            },
+            "main_reference_number": "1979.785",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1843,
+            "date_end": 1860,
+            "date_display": "c. 1848\u201355",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "George Bacchus and Sons\nBirmingham, England, c. 1817-1882",
+            "place_of_origin": "Birmingham",
+            "dimensions": "Diam.: 8.9 cm (3 1\/2 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 8.9,
+                    "diameter_in": 3.5,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Glass",
+            "inscriptions": null,
+            "credit_line": "Gift of Arthur Rubloff",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": 1980,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 13.8587,
+            "color": {
+                "h": 209,
+                "l": 40,
+                "s": 47,
+                "percentage": 0.0009850151059102314,
+                "population": 7
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Glass",
+            "artwork_type_id": 37,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": 86001,
+            "artist_title": "George Bacchus & Sons",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                86001
+            ],
+            "artist_titles": [
+                "George Bacchus & Sons"
+            ],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "millefiori glass",
+                "paperweight",
+                "millefiori",
+                "glass",
+                "european decorative arts",
+                "glass"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-858",
+            "classification_title": "paperweight",
+            "alt_classification_ids": [
+                "TM-371",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_ids": [
+                "TM-858",
+                "TM-371",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_titles": [
+                "paperweight",
+                "millefiori",
+                "european decorative arts",
+                "glass"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2657",
+            "alt_material_ids": [
+                "TM-2453"
+            ],
+            "material_ids": [
+                "TM-2657",
+                "TM-2453"
+            ],
+            "material_titles": [
+                "millefiori glass",
+                "glass"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "66ae9873-c546-681f-50b0-80ddfad8f7b6",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1979.785"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Paperweight"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:59:05-05:00",
+            "updated_at": "2023-05-05T14:02:29-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 58703,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/58703",
+            "is_boosted": false,
+            "title": "Paperweight",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBgAFAPQAAKqyxLC3xrG3x7G3yrW7yrnBzLzDzbzBz8XI18vO2tLU3tPV3+Lk6OTm6ubn6+\/v8PTz8\/T08\/T09Pb29Pb29ff39ff39vj49gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoHQxzCVNigAgEXQYxfBQS0AkkWQ5TSWFADs=",
+                "width": 2516,
+                "height": 2250,
+                "alt_text": "A work made of glass."
+            },
+            "main_reference_number": "1979.782",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1841,
+            "date_end": 1860,
+            "date_display": "c. 1846\u201355",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Saint-Louis Glassworks (Cristalleries de Saint-Louis)\nLorraine, France, founded 1586",
+            "place_of_origin": "Saint-Louis",
+            "dimensions": "Diam.: 9.5 cm (3 3\/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 9.5,
+                    "diameter_in": 3.75,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Glass",
+            "inscriptions": null,
+            "credit_line": "Gift of Arthur Rubloff",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": 1980,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 16.8188,
+            "color": {
+                "h": 228,
+                "l": 60,
+                "s": 50,
+                "percentage": 0.0006293048384102501,
+                "population": 4
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Glass",
+            "artwork_type_id": 37,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": 43087,
+            "artist_title": "Compagnie de Saint Louis",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                43087
+            ],
+            "artist_titles": [
+                "Compagnie de Saint Louis"
+            ],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "sulphide (glass)",
+                "paperweight",
+                "glass",
+                "sulphide (glass)",
+                "european decorative arts",
+                "glass"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-858",
+            "classification_title": "paperweight",
+            "alt_classification_ids": [
+                "TM-372",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_ids": [
+                "TM-858",
+                "TM-372",
+                "TM-1394",
+                "TM-85"
+            ],
+            "classification_titles": [
+                "paperweight",
+                "sulphide (glass)",
+                "european decorative arts",
+                "glass"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2674",
+            "alt_material_ids": [
+                "TM-2453"
+            ],
+            "material_ids": [
+                "TM-2674",
+                "TM-2453"
+            ],
+            "material_titles": [
+                "sulphide (glass)",
+                "glass"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "7a8ef512-3884-5052-2b5f-4d6bce7b9686",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1979.782"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Paperweight"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:53:52-05:00",
+            "updated_at": "2023-05-05T13:57:24-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 266224,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/266224",
+            "is_boosted": false,
+            "title": "Palermo Catacombs #6 (Girl with Gloves)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAACEdGCUgGSgjHi4pIjs1LD84LUZANkdBOUpDOUxFOkpEPU9IPlBKQFNMQVZPQ1lSRlpSRmBYTWRcUGVeUWRdUmpiVnBnWnJqYQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4GIIA1EkCpBA0nVMzkNVVhMwSBQCADs=",
+                "width": 6812,
+                "height": 6776,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "2022.1440",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1963,
+            "date_end": 1963,
+            "date_display": "1963",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Peter Hujar\nAmerican, 1934-1987",
+            "place_of_origin": "United States",
+            "dimensions": "Image: 37.4 \u00d7 37.5 cm (14 3\/4 \u00d7 14 13\/16 in.); paper: 50.5 \u00d7 40.5 cm (19 15\/16 \u00d7 16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 37.5,
+                    "width_in": 14.7638,
+                    "height_cm": 37.4,
+                    "height_in": 14.7245,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Image"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.5,
+                    "width_in": 15.9449,
+                    "height_cm": 50.5,
+                    "height_in": 19.8819,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "paper"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": null,
+            "credit_line": "Ruttenberg Curatorial Endowment and Photography and Media Purchase funds",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 20,
+            "fiscal_year": 2023,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 38,
+                "l": 39,
+                "s": 10,
+                "percentage": 0.0019411539189471184,
+                "population": 896
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 108022,
+            "artist_title": "Peter Hujar",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                108022
+            ],
+            "artist_titles": [
+                "Peter Hujar"
+            ],
+            "category_ids": [
+                "PC-12"
+            ],
+            "category_titles": [
+                "Photography and Media"
+            ],
+            "term_titles": [
+                "photography",
+                "photography",
+                "photograph",
+                "photographic process",
+                "photograph"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_titles": [
+                "photography",
+                "photograph",
+                "photographic process"
+            ],
+            "subject_id": "TM-8578",
+            "alt_subject_ids": [
+                "TM-14692"
+            ],
+            "subject_ids": [
+                "TM-8578",
+                "TM-14692"
+            ],
+            "subject_titles": [
+                "photography",
+                "photograph"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "6ff827e7-d952-8778-f050-90128fd76a16",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2022.1440"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Palermo Catacombs #6 (Girl with Gloves)"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:55:04-05:00",
+            "updated_at": "2023-05-05T13:57:23-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 58701,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/58701",
+            "is_boosted": false,
+            "title": "Paperweight",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAADIqMW9qdm5reH14gn96hL27wr27w769xMHAx\/Lx9PPy9vf4+Pj4+Pn5+fn6+fv6+\/n6\/Pr7\/fz7\/Pz8\/P39\/f3+\/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4EJBlPMUBCIlAhAozzEYE0NFVRMCADs=",
+                "width": 2250,
+                "height": 2250,
+                "alt_text": "A work made of glass."
+            },
+            "main_reference_number": "1979.781",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1843,
+            "date_end": 1860,
+            "date_display": "c. 1848\u201355",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "George Bacchus and Sons\nBirmingham, England, c. 1817-1882",
+            "place_of_origin": "Birmingham",
+            "dimensions": "Diam.: 8.6 cm (3 3\/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 0,
+                    "width_in": 0,
+                    "height_cm": 0,
+                    "height_in": 0,
+                    "diameter_cm": 8.6,
+                    "diameter_in": 3.375,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Glass",
+            "inscriptions": null,
+            "credit_line": "Gift of Arthur Rubloff",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 6,
+            "fiscal_year": 1980,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 14.0081,
+            "color": {
+                "h": 210,
+                "l": 60,
+                "s": 51,
+                "percentage": 0.002673612430327771,
+                "population": 19
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Glass",
+            "artwork_type_id": 37,
+            "department_title": "Applied Arts of Europe",
+            "department_id": "PC-9",
+            "artist_id": 86001,
+            "artist_title": "George Bacchus & Sons",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                86001
+            ],
+            "artist_titles": [
+                "George Bacchus & Sons"
+            ],
+            "category_ids": [
+                "PC-9"
+            ],
+            "category_titles": [
+                "Applied Arts of Europe"
+            ],
+            "term_titles": [
+                "glass",
+                "paperweight",
+                "glass",
+                "european decorative arts"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-858",
+            "classification_title": "paperweight",
+            "alt_classification_ids": [
+                "TM-85",
+                "TM-1394"
+            ],
+            "classification_ids": [
+                "TM-858",
+                "TM-85",
+                "TM-1394"
+            ],
+            "classification_titles": [
+                "paperweight",
+                "glass",
+                "european decorative arts"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2453",
+            "alt_material_ids": [],
+            "material_ids": [
+                "TM-2453"
+            ],
+            "material_titles": [
+                "glass"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "af780ed8-7805-8460-28fc-f2856564dcec",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1979.781"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Paperweight"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:51:44-05:00",
+            "updated_at": "2023-05-05T13:52:27-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 266229,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/266229",
+            "is_boosted": false,
+            "title": "Nude Self-Portrait Series (Avedon Master Class)",
+            "alt_titles": null,
+            "thumbnail": null,
+            "main_reference_number": "2022.1441.1-4",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1967,
+            "date_end": 1967,
+            "date_display": "1967",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Peter Hujar\nAmerican, 1934-1987",
+            "place_of_origin": "United States",
+            "dimensions": "Each: 50.7 \u00d7 40.6 cm (20 \u00d7 16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.6,
+                    "width_in": 15.9843,
+                    "height_cm": 50.7,
+                    "height_in": 19.9607,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Each"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": null,
+            "credit_line": "Ruttenberg Curatorial Endowment Fund",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 20,
+            "fiscal_year": 2023,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": null,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 108022,
+            "artist_title": "Peter Hujar",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                108022
+            ],
+            "artist_titles": [
+                "Peter Hujar"
+            ],
+            "category_ids": [
+                "PC-12"
+            ],
+            "category_titles": [
+                "Photography and Media"
+            ],
+            "term_titles": [
+                "photography",
+                "photography",
+                "photograph",
+                "photographic process",
+                "photograph"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_titles": [
+                "photography",
+                "photograph",
+                "photographic process"
+            ],
+            "subject_id": "TM-8578",
+            "alt_subject_ids": [
+                "TM-14692"
+            ],
+            "subject_ids": [
+                "TM-8578",
+                "TM-14692"
+            ],
+            "subject_titles": [
+                "photography",
+                "photograph"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": null,
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2022.1441.1-4"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Nude Self-Portrait Series (Avedon Master Class)"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:38:44-05:00",
+            "updated_at": "2023-05-05T13:42:31-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 266225,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/266225",
+            "is_boosted": false,
+            "title": "Palermo Catacombs #10 (Girl with Flowers)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAABYVFRcWFhgXFxoZGRwbGxwcHCIiIicmJSgnJzEwMDExMDIxMDk4Nzs6OT09PEJBQEdGRFFQT1dWVVtaWWVkY2dmZGhnZXx7eZOSjwAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4NIwT3QoSWEAEjZVgUNZF0IIAxQCADs=",
+                "width": 6973,
+                "height": 7039,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "Obj: 266225",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1963,
+            "date_end": 1963,
+            "date_display": "1963",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Peter Hujar\nAmerican, 1934-1987",
+            "place_of_origin": "United States",
+            "dimensions": "Image: 38.4 \u00d7 38.3 cm (15 1\/8 \u00d7 15 1\/8 in.); paper: 50.8 \u00d7 40.4 cm (20 \u00d7 15 15\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 38.3,
+                    "width_in": 15.0788,
+                    "height_cm": 38.4,
+                    "height_in": 15.1182,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Image"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.4,
+                    "width_in": 15.9056,
+                    "height_cm": 50.8,
+                    "height_in": 20,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "paper"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": null,
+            "credit_line": "Promised gift of Randall Kroszner and David Nelson",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 20,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 45,
+                "l": 48,
+                "s": 1,
+                "percentage": 0.0007782743770458607,
+                "population": 382
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 108022,
+            "artist_title": "Peter Hujar",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                108022
+            ],
+            "artist_titles": [
+                "Peter Hujar"
+            ],
+            "category_ids": [
+                "PC-12"
+            ],
+            "category_titles": [
+                "Photography and Media"
+            ],
+            "term_titles": [
+                "photography",
+                "photography",
+                "photograph",
+                "photographic process",
+                "photograph"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_titles": [
+                "photography",
+                "photograph",
+                "photographic process"
+            ],
+            "subject_id": "TM-8578",
+            "alt_subject_ids": [
+                "TM-14692"
+            ],
+            "subject_ids": [
+                "TM-8578",
+                "TM-14692"
+            ],
+            "subject_titles": [
+                "photography",
+                "photograph"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "48383fed-cf75-8dab-4164-4710cea31384",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "Obj: 266225"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Palermo Catacombs #10 (Girl with Flowers)"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:39:15-05:00",
+            "updated_at": "2023-05-05T13:42:31-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 97908,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/97908",
+            "is_boosted": false,
+            "title": "Slave Market",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhCAAFAPUAACItFTxEMEFIOFJVSlZdT1ZcUF5jT2hrXmhuYGtvYnV0aHh7b3t8bXt8cXp8c3p8dH19dIuNgo6OhJKThJaVh5WViJ6ej5ubkJ6akZ2dkJ+dkqCfkaSjk62pl6akm6eknKmnm6uom66rna2on7KwqLu0qby3qrq4rAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQIBgAPGQPpgAofBwLBqKxGVSOSAiEgPHwqCcNKOOSZQBbUKlIAA7",
+                "width": 3000,
+                "height": 1939,
+                "alt_text": "A work made of oil on canvas."
+            },
+            "main_reference_number": "1982.800",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1893,
+            "date_end": 1893,
+            "date_display": "1893",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Frederic Remington (American, 1861\u20131909)",
+            "place_of_origin": "United States",
+            "dimensions": "73 \u00d7 103.5 cm (28 3\/4 \u00d7 40 3\/4 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 103.5,
+                    "width_in": 40.75,
+                    "height_cm": 73,
+                    "height_in": 28.75,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Oil on canvas",
+            "inscriptions": "Signed recto, lower left: Frederic Remington",
+            "credit_line": "George F. Harding Collection",
+            "catalogue_display": "<p>Hassrick 01677<\/p>",
+            "publication_history": "Henry M. Stanley, \"Slavery and the Slave Trade in Africa,\" <em>Harper's New Monthly Magazine<\/em> 86, no. 514 (Mar. 1983): 613\u2013632 (ill.), as <em>A Slave Market<\/em>.\n\nPeter H. Hassrick, et al., <em>Frederick Remington Catalogue Raisonn\u00e9<\/em>, accessed May 5, 2020, <a href=\"http:\/\/remington.centerofthewest.org\">http:\/\/remington.centerofthewest.org<\/a>, cat. 01677, as <em>A Slave Market<\/em>.",
+            "exhibition_history": "Art Institute of Chicago, <em>Paintings and Bronzes by Frederic Remington Lent by the George F. Harding Museum<\/em>, June 21\u2013Oct. 10, 1969, as <em>The Slave Market<\/em>.",
+            "provenance_text": "George F. Harding, Jr. (1868\u20131939), Chicago, IL; George F. Harding Museum, Chicago, no. 402, by 1982 [copy of incoming receipt RX13605 in curatorial object file]; transferred to the Art Institute of Chicago, 1982.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 21,
+            "fiscal_year": 1982,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 12.4044,
+            "color": {
+                "h": 45,
+                "l": 50,
+                "s": 5,
+                "percentage": 0.06290334867826787,
+                "population": 289
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Painting",
+            "artwork_type_id": 1,
+            "department_title": "Arts of the Americas",
+            "department_id": "PC-3",
+            "artist_id": 21570,
+            "artist_title": "Frederic Remington",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                21570
+            ],
+            "artist_titles": [
+                "Frederic Remington"
+            ],
+            "category_ids": [
+                "PC-3"
+            ],
+            "category_titles": [
+                "Arts of the Americas"
+            ],
+            "term_titles": [
+                "painting",
+                "oil paint (paint)",
+                "organic material",
+                "american arts"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-9",
+            "classification_title": "painting",
+            "alt_classification_ids": [
+                "TM-2191"
+            ],
+            "classification_ids": [
+                "TM-9",
+                "TM-2191"
+            ],
+            "classification_titles": [
+                "painting",
+                "american arts"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2451",
+            "alt_material_ids": [
+                "TM-2601"
+            ],
+            "material_ids": [
+                "TM-2451",
+                "TM-2601"
+            ],
+            "material_titles": [
+                "oil paint (paint)",
+                "organic material"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "211e903f-a1a3-76d5-90b0-13a1717ee210",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1982.800"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Slave Market"
+                    ],
+                    "weight": 1553,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:40:40-05:00",
+            "updated_at": "2023-05-05T13:42:31-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 266231,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/266231",
+            "is_boosted": false,
+            "title": "George Osterman (Ridiculous Theatrical Company, Eunuchs of the Forbidden City, Westbeth)",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAABwbGR4cGiUkISclIi0rKC4tKTEvKzMxLTg2MTk2Mjs4NDw6Nj06NklGQVhUTllWUF5aVHNuZ3JuaHRvaXhzbIJ9dYmDewAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVoPNUFhQtVCQhzVQwg0IcBiAkRxACADs=",
+                "width": 6491,
+                "height": 6511,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "2022.1442",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1973,
+            "date_end": 1973,
+            "date_display": "1973, printed 2022",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Peter Hujar\nAmerican, 1934-1987",
+            "place_of_origin": "United States",
+            "dimensions": "Image: 37.5 \u00d7 37.5 cm (14 13\/16 \u00d7 14 13\/16 in.); paper: 50.9 \u00d7 40.5 cm (20 1\/16 \u00d7 16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 37.5,
+                    "width_in": 14.7638,
+                    "height_cm": 37.5,
+                    "height_in": 14.7638,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Image"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.5,
+                    "width_in": 15.9449,
+                    "height_cm": 50.9,
+                    "height_in": 20.0394,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "paper"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": null,
+            "credit_line": "Ruttenberg Curatorial Endowment Fund",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 20,
+            "fiscal_year": 2023,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": {
+                "h": 51,
+                "l": 5,
+                "s": 6,
+                "percentage": 0.006338892827068354,
+                "population": 2679
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 108022,
+            "artist_title": "Peter Hujar",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                108022
+            ],
+            "artist_titles": [
+                "Peter Hujar"
+            ],
+            "category_ids": [
+                "PC-12"
+            ],
+            "category_titles": [
+                "Photography and Media"
+            ],
+            "term_titles": [
+                "photography",
+                "photography",
+                "photograph",
+                "photographic process",
+                "photograph"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_titles": [
+                "photography",
+                "photograph",
+                "photographic process"
+            ],
+            "subject_id": "TM-8578",
+            "alt_subject_ids": [
+                "TM-14692"
+            ],
+            "subject_ids": [
+                "TM-8578",
+                "TM-14692"
+            ],
+            "subject_titles": [
+                "photography",
+                "photograph"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "9b92dea7-84b1-0b6a-da7b-57d3e27bba2c",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2022.1442"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "George Osterman (Ridiculous Theatrical Company, Eunuchs of the Forbidden City, Westbeth)"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:34:40-05:00",
+            "updated_at": "2023-05-05T13:37:32-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 266230,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/266230",
+            "is_boosted": false,
+            "title": "Dean Savard Reclining",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBQAFAPQAABsZFzQxLUA9OkI+OlpWUl1ZU2diW2hiW2ljXGhjXWplXXBrY3RuZ3dxaXdxandyan54cIF7dIN+doeBeoiCe46IgY+JgpCLhKagmQAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUV4KE0UIRQRXVNGDEkkiUAgbMYzBMCADs=",
+                "width": 6519,
+                "height": 6483,
+                "alt_text": "A work made of gelatin silver print."
+            },
+            "main_reference_number": "2022.1447",
+            "has_not_been_viewed_much": true,
+            "boost_rank": null,
+            "date_start": 1984,
+            "date_end": 1984,
+            "date_display": "1984",
+            "date_qualifier_title": "Made",
+            "date_qualifier_id": 4,
+            "artist_display": "Peter Hujar\nAmerican, 1934-1987",
+            "place_of_origin": "United States",
+            "dimensions": "Image: 37.5 \u00d7 37.5 cm (14 3\/4 \u00d7 14 3\/4 in.); paper: 50.8 \u00d7 40.7 cm (20 \u00d7 16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 37.5,
+                    "width_in": 14.75,
+                    "height_cm": 37.5,
+                    "height_in": 14.75,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "Image"
+                },
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.7,
+                    "width_in": 16,
+                    "height_cm": 50.8,
+                    "height_in": 20,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": "paper"
+                }
+            ],
+            "medium_display": "Gelatin silver print",
+            "inscriptions": null,
+            "credit_line": "Photography and Media Purchase Fund",
+            "catalogue_display": null,
+            "publication_history": null,
+            "exhibition_history": null,
+            "provenance_text": null,
+            "edition": null,
+            "publishing_verification_level": "Web Basic",
+            "internal_department_id": 20,
+            "fiscal_year": 2023,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": false,
+            "is_zoomable": false,
+            "max_zoom_window_size": 843,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 0,
+            "color": null,
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Photograph",
+            "artwork_type_id": 2,
+            "department_title": "Photography and Media",
+            "department_id": "PC-12",
+            "artist_id": 108022,
+            "artist_title": "Peter Hujar",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                108022
+            ],
+            "artist_titles": [
+                "Peter Hujar"
+            ],
+            "category_ids": [
+                "PC-12"
+            ],
+            "category_titles": [
+                "Photography and Media"
+            ],
+            "term_titles": [
+                "photography",
+                "photography",
+                "photograph",
+                "photographic process",
+                "photograph"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-67",
+            "classification_title": "photography",
+            "alt_classification_ids": [
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_ids": [
+                "TM-67",
+                "TM-240",
+                "TM-68"
+            ],
+            "classification_titles": [
+                "photography",
+                "photograph",
+                "photographic process"
+            ],
+            "subject_id": "TM-8578",
+            "alt_subject_ids": [
+                "TM-14692"
+            ],
+            "subject_ids": [
+                "TM-8578",
+                "TM-14692"
+            ],
+            "subject_titles": [
+                "photography",
+                "photograph"
+            ],
+            "material_id": null,
+            "alt_material_ids": [],
+            "material_ids": [],
+            "material_titles": [],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "eff42330-9b18-35b7-c307-cfeb667ae385",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "2022.1447"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Dean Savard Reclining"
+                    ],
+                    "weight": 1,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:34:41-05:00",
+            "updated_at": "2023-05-05T13:37:32-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 80066,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/80066",
+            "is_boosted": false,
+            "title": "Italian Comedians",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhCAAFAPUAAIlwV5V3W5t+YZWAZJmBZJ+Kap6LbqSHbaCKaqCMbqGNbqWMbaaPbaSNbqaOb6iJaKmKbamObKiOb6uOb6uRcamScauUc66SdKyUdK+ad6+TebCZdrGYd7SYebSderWderade7WZfriderueerujf7WcgL2khL6liwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQEXD4clgKomCJDQiaSYMQOBUAh0gggHB1BFdHguDZfPhUCKIIAA7",
+                "width": 8542,
+                "height": 5551,
+                "alt_text": "A work made of red, black, and white chalks, with stumping, on cream laid paper."
+            },
+            "main_reference_number": "1954.1",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1719,
+            "date_end": 1720,
+            "date_display": "1719\/20",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Jean Antoine Watteau\nFrench, 1684-1721",
+            "place_of_origin": "France",
+            "dimensions": "26.1 \u00d7 40.3 cm (10 5\/16 \u00d7 15 7\/8 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 40.3,
+                    "width_in": 15.8662,
+                    "height_cm": 26.1,
+                    "height_in": 10.2756,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Red, black, and white chalks, with stumping, on cream laid paper",
+            "inscriptions": null,
+            "credit_line": "Margaret Day Blake Collection",
+            "catalogue_display": null,
+            "publication_history": "Edmond de Goncourt, Catalogue Raisonn\u00e9 de l'Oeuvre Peint, Dessin\u00e9 et Grav\u00e9 d'Antoine Watteau (Paris, 1875), nos. 659 and 715.\n\nCarl Schniewind, \"Mrs. Tiffany Blake, Patron of the Arts,\" The Art Institute of Chicago Quarterly, 158 (September 15, 1954), pp. 42-44 (ill.).\n\nKarl Theodor Parker and Jacques Mathey, Antoine Watteau, Catalogue Complet de son Oeuvre Dessin\u00e9 (Paris, 1957), no. 674 (ill.).\n\nJacques Mathey, Antoine Watteau (Paris, 1959), p. 37.\n\nJacques Mathey, \"Drawing by Watteau and Gillot,\" The Burlington Magazine (August 1960), p. 358 (ill.).\n\nIra Moskowitz, Great Drawings of all Time (New York, 1962), no. 692 (ill.).\n\nAlfred Frankfurter, \"Il Bon Disegno from Chicago,\" Art News, 62 (November 1963), p. 31 (ill.).\n\nHugh Edwards, \"Two Drawings by Antoine Watteau,\" Museum Studies, 1 (1966), p. 9.\n\n\"Recent Acquisition,\" Apollo, 62 (September 1970), p. 233 (ill.).\n\nJohn Maxon, The Art Institute of Chicago (London, 1970), p. 146 (ill.). \n\nMartin Eidelberg, \"Watteau Paintings in England in the Early Eighteenth Century,\" The Burlington Magazine (September 1975), p. 579.  \n\nSuzanne McCullagh, \"A Study for 'La F\u00eate d'Amour' by Antoine Watteau,\" Bulletin of The Art Institute of Chicago, 70 (January-February 1976), p. 16.\n\nHarold Joachim, French Drawings and Sketchbooks of the Eighteenth Century (Chicago, 1977), no. 2G6.\n\nMarianne Roland-Michel, Watteau (Paris, 1984), p. 78 (ill.).\n\nThe Art Institute of Chicago, Degas in The Art Institute of Chicago, exh. cat. (Chicago, 1984), p. 49, fig. 17-1.\n\nMargaret Morgan Grasselli, The Watteau Society Bulletin, 2 (1985), p. 44.\n\nMargaret Morgan Grasselli, \"Watteau's Use of the Trois-Crayon Technique,\" Drawings Defined (New York, 1987), p. 191 (ill.).\n\nRobert Tomlinson, \"F\u00eate Galante et\/ou Foraine? Watteau et le Th\u00e9\u00e2tre,\" Antoine Watteau (Paris, 1987), p. 211.\n\nPierre Rosenberg and Louis-Antoine Prat, Antoine Watteau, 1684-1721: Catalogue Raisonn\u00e9 des Dessins (Milan, 1996), no. 643 (ill.).\n\nMary Sheriff, The Cambridge Companion to Watteau (Cambridge, 2002).\n\nSuzanne Folds McCullagh, \u201c\u2018A Lasting Monument\u2019: The Regenstein Collection at The Art Institute of Chicago,\u201d The Art Institute of Chicago Museum Studies, 26:1 (2000), pp. 7, 34-35, no. 10, fig. 14.\n\nPierre Rosenberg, \"Watteau: The Drawings\",  (Royal Academy of Arts, London,  2011), p. 25, fig. 9.",
+            "exhibition_history": "London, South Kensington Museum, \"Twenty-Six Drawing by Watteau,\" 1878, cat. 3.\n\nNew York, The Metropolitan Museum of Art, \"French Drawings from American Collections,\" 1958-1959, cat. 87; traveled to Rotterdam, Museum Boymans; and Paris, Mus\u00e9e de l'Orangerie.\n\nNew York, Wildenstein and Company, \"Master Drawings from The Art Institute of Chicago,\" October 17-November 30, 1963, n.p., cat. 42, pl. XVII, as \"Four Studies of Italian Actors.\"\n\nThe Art Institute of Chicago, \"A Quarter Century of Collecting: Drawings Given to The Art Institute of Chicago 1944-1970 by Margaret Day Blake,\" April 28-June 7, 1970, n.p., cat. 14 (ill.).\n\nThe Art Institute of Chicago, \"Selected Works of 18th Century French Art in the Collections of The Art Institute of Chicago,\" January 24-March 28, 1976, pp. 42-43, cat. 29 (ill.).\n\nParis, Mus\u00e9e du Louvre, \"Dessins fran\u00e7ais de l\u2019Art Institute de Chicago de Watteau \u00e0 Picasso,\" October 15, 1976-January 17, 1977, n.p., cat. 2 (ill.).\n\nFrankfurt am Main, Germany, St\u00e4dtische Galerie im St\u00e4delschen Kunstinstitut, \"Franz\u00f6sische Zeichnungen aus dem Art Institute of Chicago,\" February 10-April 10, 1977, pp. 14-15, cat. 2 (ill.).\n\nWashington, D.C., The National Gallery of Art, \"Watteau,\" 1984-1985, cat. 107.\n\nThe Art Institute of Chicago, November 1993-January 1994.\n\nNew York, The Phillips Collection, \"Watteau and His World: French Drawing from 1700-1750,\" the Frick Collection, New York, N.Y., October 19, 1999-January 9, 2000, and the National Gallery of Canada, Ottawa, February 11-May 8, 2000, cat. 31. (ill.).\n\nNew York, The Metropolitan Museum of Art, \u201cWatteau, Music, and Theater,\u201d 9\/22\/09\u201311\/29\/09, p. 86 and 87, cat. #42, cat. by Katherine Baetjer et al \n\nNew York, The Metropolitan Museum of Art, \u201cWatteau, Music, and Theater,\u201d September 22\u2013November 29, 2009, p. 87 and 86, cat. # 32, cat. by Georgia J. Cowart et. al.",
+            "provenance_text": "Andrew James (died before 1857); by descent to his daughter, Sarah Ann James, London; sold, Christie's, London, June 22-23, 1891, lot 341, to Bourgeois [according to Rosenberg and Prat 1996].  Camille Groult (died 1908); by descent to his son, Jean Groult (died 1951); by descent to his son, Pierre Bordeaux-Groult [according to Rosenberg and Prat 1996].  Sold by Wildenstein and Company, New York, to the Art Institute, 1954.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": 1954,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 27.1991,
+            "color": {
+                "h": 346,
+                "l": 8,
+                "s": 25,
+                "percentage": 0.03766527261864561,
+                "population": 174
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37236,
+            "artist_title": "Jean Antoine Watteau",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37236
+            ],
+            "artist_titles": [
+                "Jean Antoine Watteau"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "chalk",
+                "stumping",
+                "paper (fiber product)",
+                "black chalk",
+                "chalk",
+                "inorganic material",
+                "red chalk",
+                "white chalk",
+                "chalk sticks",
+                "drawing techniques",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-209",
+            "classification_title": "chalk",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-209",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "chalk",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2414",
+                "TM-3782",
+                "TM-2600",
+                "TM-2415",
+                "TM-2416",
+                "TM-2413"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2414",
+                "TM-3782",
+                "TM-2600",
+                "TM-2415",
+                "TM-2416",
+                "TM-2413"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "black chalk",
+                "chalk",
+                "inorganic material",
+                "red chalk",
+                "white chalk",
+                "chalk sticks"
+            ],
+            "technique_id": "TM-3854",
+            "alt_technique_ids": [
+                "TM-3968"
+            ],
+            "technique_ids": [
+                "TM-3854",
+                "TM-3968"
+            ],
+            "technique_titles": [
+                "stumping",
+                "drawing techniques"
+            ],
+            "theme_titles": [],
+            "image_id": "bcfda579-05be-b8bd-c90f-532b98b5b895",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1954.1"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Italian Comedians"
+                    ],
+                    "weight": 910,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:14:40-05:00",
+            "updated_at": "2023-05-05T13:17:34-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        },
+        {
+            "id": 84279,
+            "api_model": "artworks",
+            "api_link": "https:\/\/api.artic.edu\/api\/v1\/artworks\/84279",
+            "is_boosted": false,
+            "title": "Allegory of Spring, or the Young Gardeners",
+            "alt_titles": null,
+            "thumbnail": {
+                "lqip": "data:image\/gif;base64,R0lGODlhBwAFAPUAAJaGcJuJc6SRfaiUfaeWgKSWgqaWg66Ygq2bgqqchq+chaqeibWehbSfhbicgbGeiKmhj7KgiLGgi7WgibeiirejirGhjbKhjLGjjrWkjbekjLunjbuokLyokL2okb+qkb2zn8C2oQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQAgmo6k0EBZQiPP5UB6dDcPhmRgkEcXhMgAUFgmCIBAEADs=",
+                "width": 3000,
+                "height": 2186,
+                "alt_text": "A work made of red chalk on buff laid paper, laid down on white laid paper."
+            },
+            "main_reference_number": "1955.1004",
+            "has_not_been_viewed_much": false,
+            "boost_rank": null,
+            "date_start": 1704,
+            "date_end": 1721,
+            "date_display": "n.d.",
+            "date_qualifier_title": "",
+            "date_qualifier_id": null,
+            "artist_display": "Jean Antoine Watteau\nFrench, 1684-1721",
+            "place_of_origin": "France",
+            "dimensions": "15.7 \u00d7 21.6 cm (6 3\/16 \u00d7 8 9\/16 in.)",
+            "dimensions_detail": [
+                {
+                    "depth_cm": 0,
+                    "depth_in": 0,
+                    "width_cm": 21.6,
+                    "width_in": 8.504,
+                    "height_cm": 15.7,
+                    "height_in": 6.1812,
+                    "diameter_cm": 0,
+                    "diameter_in": 0,
+                    "clarification": null
+                }
+            ],
+            "medium_display": "Red chalk on buff laid paper, laid down on white laid paper",
+            "inscriptions": null,
+            "credit_line": "Gift of Margaret Day Blake",
+            "catalogue_display": null,
+            "publication_history": "Edmond de Goncourt, Catalogue Raisonn\u00e9 de l'Oeuvre Peint, Dessin\u00e9 et Grav\u00e9 d'Antoine Watteau (Paris, 1875), no. 477.\n\nKarl Theodor Parker, The Drawings of Antoine Watteau (London, 1931), pp. 12 and 25.\n\nKarl Theodor Parker and Jacques Mathey, Antoine Watteau, Catalogue Complet de son Oeuvre Dessin\u00e9 I (Paris, 1957), p. 17, no. 94, fig 94.\n\nJacques Mathey, \"Drawings by Watteau and Gillot,\" The Burlington Magazine (August 1960), pp. 357-358.\n \nHugh Edwards, \"Two Drawings by Antoine Watteau,\" The Art Institute Museum Studies (1966), p. 9.\n\nMartin P. Eidelberg, \"Cycle of the Four Seasons by the Young Watteau,\" Art Quarterly, 29 (1966), pp. 269-276, fig. 5.\n\nMartin P. Eidelberg, Watteau's Drawings, Their Use and Significance (New York, 1977), pp. 208-210, 212, and 215, fig. 171.\n\nHarold Joachim, French Drawings and Sketchbooks of the Eighteenth Century (Chicago, 1977), no. 2G3.\n\nMarianne Roland-Michel, Watteau (Paris, 1984), p. 20, 125, fig. 5.\n\nMargaret Morgan Grasselli, The Drawings of Watteau (Cambridge, 1987), pp. 39, and 125-128, no. 45, fig. 20.\n\nMarianne Roland-Michel, \"Watteau et les Figures de Differents Caract\u00e8res,\" Watteau: Le Peintre, son Temps et sa L\u00e9gende (Paris, 1987), p. 120.\n\nMargaret Morgan Grasselli, \"Eighteen Drawings by Watteau: A Chronological Study,\" Master Drawings, 31 (1993), pp. 104, 106, and 126.\n\nPierre Rosenberg and Louis-Antoine Prat, Antoine Watteau, 1684-1721: Catalogue Raisonn\u00e9 des Dessins (Milan, 1996), no. 11 (ill.).",
+            "exhibition_history": "New York, Wildenstein and Company, \"Master Drawings from The Art Institute of Chicago,\" October 17-November 30, 1963, n.p., cat. 41, as \"Spring.\"\n\nThe Art Institute of Chicago, \"A Quarter Century of Collecting: Drawings Given to The Art Institute of Chicago 1944-1970 by Margaret Day Blake,\" April 28-June 7, 1970, n.p., cat. 15 (ill.), as \"Allegory of Gardening.\"\n\nThe Art Institute of Chicago, \"Selected Works of 18th Century French Art in the Collections of The Art Institute of Chicago,\" January 24-March 28, 1976, pp. 40-41, cat. 27 (ill.).\n\nFrankfurt-am-Main, Stadtische Galerie, \"Antoine Watteau,\" 1982, p. 40, cat. Cb2.\n\nWashington, D.C., The National Gallery of Art, \"Watteau,\" June-September 1984, cat. 13 (ill.); traveled to Paris, Galerie Nationales de Grand Palais, October 1984-January 1985; Berlin, Charlottenburg Chateau, February-May 1985.",
+            "provenance_text": "Sold, H\u00f4tel Drouot, Paris, May 23, 1899, lot 93.  L\u00e9on Michel-L\u00e9vy (1846-1925), Paris; sold, Galerie Georges Petit, Paris, June 17-18, 1925, lot 118 to Jules Strauss (1861-1943), Paris [annotated sales catalogue]; sold, Galerie Charpentier, Paris, May 27, 1949, lot 5 (as by Claude Gillot).  Sold by Otto Wertheimer (1878-1972), Paris, to the Art Institute, 1955.",
+            "edition": null,
+            "publishing_verification_level": "Web Cataloged",
+            "internal_department_id": 3,
+            "fiscal_year": null,
+            "fiscal_year_deaccession": null,
+            "is_public_domain": true,
+            "is_zoomable": true,
+            "max_zoom_window_size": -1,
+            "copyright_notice": null,
+            "has_multimedia_resources": false,
+            "has_educational_resources": false,
+            "has_advanced_imaging": false,
+            "colorfulness": 22.7125,
+            "color": {
+                "h": 38,
+                "l": 63,
+                "s": 18,
+                "percentage": 0.555252877693672,
+                "population": 2874
+            },
+            "latitude": null,
+            "longitude": null,
+            "latlon": null,
+            "is_on_view": false,
+            "on_loan_display": null,
+            "gallery_title": null,
+            "gallery_id": null,
+            "artwork_type_title": "Drawing and Watercolor",
+            "artwork_type_id": 14,
+            "department_title": "Prints and Drawings",
+            "department_id": "PC-13",
+            "artist_id": 37236,
+            "artist_title": "Jean Antoine Watteau",
+            "alt_artist_ids": [],
+            "artist_ids": [
+                37236
+            ],
+            "artist_titles": [
+                "Jean Antoine Watteau"
+            ],
+            "category_ids": [
+                "PC-13"
+            ],
+            "category_titles": [
+                "Prints and Drawings"
+            ],
+            "term_titles": [
+                "chalk",
+                "paper (fiber product)",
+                "red chalk",
+                "chalk",
+                "inorganic material",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "style_id": null,
+            "style_title": null,
+            "alt_style_ids": [],
+            "style_ids": [],
+            "style_titles": [],
+            "classification_id": "TM-209",
+            "classification_title": "chalk",
+            "alt_classification_ids": [
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_ids": [
+                "TM-209",
+                "TM-5",
+                "TM-4"
+            ],
+            "classification_titles": [
+                "chalk",
+                "drawings (visual works)",
+                "prints and drawing"
+            ],
+            "subject_id": null,
+            "alt_subject_ids": [],
+            "subject_ids": [],
+            "subject_titles": [],
+            "material_id": "TM-2982",
+            "alt_material_ids": [
+                "TM-2415",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_ids": [
+                "TM-2982",
+                "TM-2415",
+                "TM-3782",
+                "TM-2600"
+            ],
+            "material_titles": [
+                "paper (fiber product)",
+                "red chalk",
+                "chalk",
+                "inorganic material"
+            ],
+            "technique_id": null,
+            "alt_technique_ids": [],
+            "technique_ids": [],
+            "technique_titles": [],
+            "theme_titles": [],
+            "image_id": "e1fd71da-459c-0c2a-9420-5f6fc151b4ab",
+            "alt_image_ids": [],
+            "document_ids": [],
+            "sound_ids": [],
+            "video_ids": [],
+            "text_ids": [],
+            "section_ids": [],
+            "section_titles": [],
+            "site_ids": [],
+            "suggest_autocomplete_all": [
+                {
+                    "input": [
+                        "1955.1004"
+                    ],
+                    "contexts": {
+                        "groupings": [
+                            "accession"
+                        ]
+                    }
+                },
+                {
+                    "input": [
+                        "Allegory of Spring, or the Young Gardeners"
+                    ],
+                    "weight": 558,
+                    "contexts": {
+                        "groupings": [
+                            "title"
+                        ]
+                    }
+                }
+            ],
+            "source_updated_at": "2023-05-05T13:15:18-05:00",
+            "updated_at": "2023-05-05T13:17:33-05:00",
+            "timestamp": "2023-05-05T14:15:27-05:00"
+        }
+    ],
+    "info": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/",
+            "https:\/\/www.artic.edu\/terms"
+        ],
+        "version": "1.8"
+    },
+    "config": {
+        "iiif_url": "https:\/\/www.artic.edu\/iiif\/2",
+        "website_url": "http:\/\/www.artic.edu"
+    }
+}
